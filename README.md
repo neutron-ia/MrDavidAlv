@@ -21,7 +21,7 @@
 
 ## 🚀 Acerca de Mí
 
-<a href="https://app.daily.dev/mrdavidalv"><img src="ingeniero.png?r=duu" width="500" align="right" alt="Mario David Alvarez Vallejo"/></a>
+<a href="https://app.daily.dev/mrdavidalv"><img src="ingeniero.png?r=duu" width="40%" align="right" alt="Mario David Alvarez Vallejo"/></a>
 
 👨‍💻 Soy ingeniero en automatización industrial con experiencia en desarrollo web. Me apasiona la robótica, especialmente la experimentación con ROS (Robot Operating System). Desde Bogotá ❤️ Colombia, participo activamente en comunidades tech, hackatones y eventos de innovación, ya sea como creador, entusiasta o incansable curioso.
 
